@@ -25,9 +25,12 @@ I Developed a Pizza Sales Dashboard project in Excel, creating multiple dashboar
 
 ## Data cleaning using SQL 
  ##SQL queries 
- -<a href="https://github.com/mahi12198/Pizza-Sales-Data-Analysis-Dash-Board/blob/main/SQL_queries%20Project.docx">SQL-Quesries</a>
+ -<a href="https://github.com/mahi12198/Pizza-Sales-Data-Analysis-Dash-Board/blob/main/SQL_queries%20Project.docx">SQL-Queries</a>
 
  ## Data Cleaning ,tranformation and analyzing using Excel.
  ## Chart requirements and Pivot tables 
-  -<a href="">SQL-Quesries</a>
+  -<a href="https://github.com/mahi12198/Pizza-Sales-Data-Analysis-Dash-Board/blob/main/Pizza%20Sales%20Data%20Analysis.xlsx">Pizza sales analysis </a>
+
+  ## Dashboard for Pizza Sales 
+   -<a href="">Pizza sales Dashboard</a>
 
