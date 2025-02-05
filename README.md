@@ -32,5 +32,10 @@ I Developed a Pizza Sales Dashboard project in Excel, creating multiple dashboar
   -<a href="https://github.com/mahi12198/Pizza-Sales-Data-Analysis-Dash-Board/blob/main/Pizza%20Sales%20Data%20Analysis.xlsx">Pizza sales analysis </a>
 
   ## Dashboard for Pizza Sales 
-   -<a href="">Pizza sales Dashboard</a>
+   -<a href="https://github.com/mahi12198/Pizza-Sales-Data-Analysis-Dash-Board/blob/main/PizzaSales_DashBoard.jpg">Pizza sales Dashboard</a>
+
+   ##Conclusion: 
+   The Pizza Sales Dashboard effectively demonstrates the power of SQL and Excel in analyzing and visualizing business data. By extracting, transforming, and analyzing sales data, the dashboard provides valuable insights into revenue trends, customer preferences, and 
+   order patterns. Its interactive design allows for dynamic filtering and real-time analysis, making it a practical tool for decision-making.
+   This project showcases expertise in data analysis, SQL querying, and Excel visualization, reinforcing the importance of data-driven strategies in business operations.
 
